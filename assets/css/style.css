@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,600,700');
+
+/*---------------------------------Colors*/
+
+
+
+/* ----------------Special paddings/margins/text */
+
+
+
+/*---------------------------------Heading*/
+
+
+
+body {
+    overflow-x: hidden;
+    font-family: Lato;
+}
+
+/*Background image used below (scissors_2.jpg) found at https://www.pexels.com/photo/blue-and-silver-scissors-1319458/ . Photographed by Nick Demou*/
+
+header.masthead {
+    text-align: center;
+    background-image: url("../images/scissors_2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+header.masthead .intro-text {
+    color: rgba(255, 255, 255, 0.671);
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+header.masthead .intro-text .intro-lead-in {
+    font-size: 22px;
+    font-style: italic;
+    line-height: 22px;
+    margin-bottom: 25px;
+}
+
+header.masthead .intro-text .intro-heading {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    margin-bottom: 25px;
+    font-family: 'Lato', sans-serif;
+}
+
+@media (min-width: 768px) {
+    header.masthead .intro-text {
+        padding-top: 300px;
+        padding-bottom: 200px;
+    }
+
+    header.masthead .intro-text .intro-lead-in {
+        font-size: 40px;
+        font-style: italic;
+        line-height: 40px;
+        margin-bottom: 25px;
+    }
+
+    header.masthead .intro-text .intro-heading {
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+        margin-bottom: 50px;
+    }
+
+    .book-now {
+        box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+    }
+}
+
+
+
+    /*
+
+.navbar-toggler {
+    background-color: black;
+}
+
+.navbar {
+    background: transparent;
+    border-color: transparent;
+}
+
+.navbar .navbar-collapse {
+    text-align: right;
+    border-top: 1px solid transparent;
+    overflow-x: hidden;
+}
+
+*/
+
+    /*---------------------------Landing*/
+
+    /*
+
+#landing {
+    background-attachment: fixed;
+    background-image: url('..assets\images\straight_razor_kit.jpg');
+    background-position: bottom;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    z-index: 1;
+}
+
+*/
+
+    /*---------------------------------Hover.css*/
+
+
+
+    /* --------------------Footer */
+
+
+
+    /* --------------------About Us */
+
+
+
+    /* --------------------Services & Prices */
+
+
+
+    /* --------------------Contact Form */
+
+
+
+    /* --------------------Media Queries */
