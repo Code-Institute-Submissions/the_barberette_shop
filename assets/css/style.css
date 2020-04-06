@@ -1,23 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,600,700');
 
-/*---------------------------------Colors*/
+/* ----------------COLORS */
 
 a {
     color: rgba(255, 255, 255, 0.771);
 }
 
-/*---------------------------------Hover.css*/
+/* ----------------HOVER.CSS */
 
 a:hover {
     color: red;
     transition: ease-in-out 0.4s;
 }
 
-/* --------------------Footer */
+/* ----------------FOOTER */
 
 
 
-/* ----------------Navbar */
+/* ----------------NAVBAR */
 
 .navbar-nav {
     text-align: right;
@@ -29,16 +29,14 @@ a:hover {
     background-color: rgba(255, 255, 255, 0.771);
 }
 
-
-
-/*---------------------------------Landing*/
+/* ----------------LANDING PAGE SECTION */
 
 body {
     overflow-x: hidden;
     font-family: Lato;
 }
 
-/*Background image used below (scissors_2.jpg) found at https://www.pexels.com/photo/blue-and-silver-scissors-1319458/ . Photographed by Nick Demou*/
+    /*Background image used below (scissors_2.jpg) found at https://www.pexels.com/photo/blue-and-silver-scissors-1319458/ . Photographed by Nick Demou*/
 
 header.masthead {
     text-align: center;
@@ -95,7 +93,7 @@ header.masthead .intro-text .intro-heading {
     box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
     }
 
-/* .hvr-grow-shadow code (below) found at https://ianlunn.github.io/Hover/#effects */
+    /* .hvr-grow-shadow code (below) found at https://ianlunn.github.io/Hover/#effects */
 
 .hvr-grow-shadow {
     display: inline-block;
@@ -117,7 +115,7 @@ header.masthead .intro-text .intro-heading {
     transform: scale(1.1);
 }
 
-/* --------------------About Us */
+/* ----------------ABOUT US SECTION */
 
 .day {
     text-align: left; 
@@ -127,60 +125,8 @@ header.masthead .intro-text .intro-heading {
     text-align: left;
 }
 
-
-    /*
-
-.navbar-toggler {
-    background-color: black;
-}
-
-.navbar {
-    background: transparent;
-    border-color: transparent;
-}
-
-.navbar .navbar-collapse {
-    text-align: right;
-    border-top: 1px solid transparent;
-    overflow-x: hidden;
-}
-
-*/
-
-    /*---------------------------Landing*/
-
-    /*
-
-#landing {
-    background-attachment: fixed;
-    background-image: url('..assets\images\straight_razor_kit.jpg');
-    background-position: bottom;
-    background-size: cover;
-    height: 100vh;
-    width: 100vw;
-    z-index: 1;
-}
-
-*/
-
-    /*---------------------------------Hover.css*/
+/* ----------------SERVICES SECTION */
 
 
 
-    /* --------------------Footer */
-
-
-
-    /* --------------------About Us */
-
-
-
-    /* --------------------Services & Prices */
-
-
-
-    /* --------------------Contact Form */
-
-
-
-    /* --------------------Media Queries */
+/* ----------------CONTACT FORM SECTION */
