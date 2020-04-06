@@ -6,10 +6,15 @@ a {
     color: rgba(255, 255, 255, 0.771);
 }
 
+/*---------------------------------Hover.css*/
+
 a:hover {
     color: red;
     transition: ease-in-out 0.4s;
 }
+
+/* --------------------Footer */
+
 
 
 /* ----------------Navbar */
