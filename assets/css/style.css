@@ -117,12 +117,12 @@ header.masthead .intro-text .intro-heading {
 
 /* ----------------ABOUT US SECTION */
 
-#hours {
-    background-color: red;
-}
-
 #shopBlurb {
     background-color: blue;
+}
+
+#hours {
+    background-color: red;
 }
 
 #location {
