@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,600,700');
 
-/* ----------------COLORS */
+/* ----------------COLORS & FONTS */
 
 a {
     color: rgba(255, 255, 255, 0.771);
+}
+
+body {
+    font-family: 'Lato', sans-serif;
 }
 
 /* ----------------HOVER.CSS */
@@ -123,6 +127,10 @@ header.masthead .intro-text .intro-heading {
 
 #hours {
     background-color: red;
+}
+
+.hours-title {
+    text-align: center;
 }
 
 #location {
