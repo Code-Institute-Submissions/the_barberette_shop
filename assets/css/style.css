@@ -13,11 +13,11 @@ a:hover {
     transition: ease-in-out 0.4s;
 }
 
-/* ----------------FOOTER */
-
-
-
 /* ----------------NAVBAR */
+
+.nav-back {
+    background-color: rgba(255, 255, 255, 0.171);
+}
 
 .navbar-nav {
     text-align: right;
@@ -25,8 +25,8 @@ a:hover {
 
 .navbar-toggler {
     padding: 5px;
-    color: rgba(39, 108, 145, 0.96);
-    background-color: rgba(255, 255, 255, 0.771);
+    color: rgba(255, 255, 255, 0.771);
+    background-color: transparent;
 }
 
 /* ----------------LANDING PAGE SECTION */
@@ -129,16 +129,12 @@ header.masthead .intro-text .intro-heading {
     background-color: yellow;
 }
 
-.day {
-    text-align: left; 
-}
-
-.hours {
-    text-align: left;
-}
-
 /* ----------------SERVICES SECTION */
 
 
 
 /* ----------------CONTACT FORM SECTION */
+
+
+
+/* ----------------FOOTER */
