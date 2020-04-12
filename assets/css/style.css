@@ -142,7 +142,6 @@ header.masthead .intro-text .intro-lead-in {
 #location {
     background-color: yellow;
     text-align: center;
-    margin-bottom: 16px;
 }
 
 .location-map {
@@ -154,11 +153,14 @@ header.masthead .intro-text .intro-lead-in {
 
 .bg-services {
     text-align: center;
-    background-image: url("../images/straight_razor_kit.jpg");
+    background-color: rgba(145, 158, 182, 1);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
+}
+.card {
+    margin-bottom: 10px;
 }
 
 
