@@ -3,9 +3,9 @@ The Barberette Shop Website
 
 https://samlud1110.github.io/milestone_one/
 
-As I was searching for inspiration for this project I found several sources which I will list below.
-
-1.
+Sources of inspiration.
+  1.GetBootstrap.com
+  2.
 
 
 Navbar code modeled after the navbar found at https://blackrockdigital.github.io/startbootstrap-agency/ 
