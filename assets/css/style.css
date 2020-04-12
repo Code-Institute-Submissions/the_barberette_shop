@@ -144,10 +144,6 @@ header.masthead .intro-text .intro-lead-in {
     text-align: center;
 }
 
-.location-map {
-    margin-bottom: 16px;
-}
-
 
 /* ----------------SERVICES SECTION */
 
@@ -164,8 +160,15 @@ header.masthead .intro-text .intro-lead-in {
 }
 
 
-/* ----------------CONTACT FORM SECTION */
+/* ----------------CONTACT SECTION */
 
+.bg-contact {
+    background-color: orange;
+}
+
+.location-map {
+    margin-bottom: 16px;
+}
 
 
 /* ----------------FOOTER */
