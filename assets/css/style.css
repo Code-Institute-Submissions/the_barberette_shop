@@ -178,4 +178,6 @@ header.masthead .intro-text .intro-lead-in {
 
 footer {
     background-color: rgba(14, 45, 185, 0.74);
+    min-height: 75px;
+    margin: 0;
 }
