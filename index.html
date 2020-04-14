@@ -107,7 +107,7 @@
     <!-- ********* SERVICES SECTION ********* -->
 
     <section id="services">
-        <!-- The below accordian section was copied from https://getbootstrap.com/docs/4.4/components/collapse/ then customized for this project. -->
+        <!-- The code for the cards in this section were copied from the Bootstrap documentation then customized for this project. -->
         <div class="container-fluid bg-services">
             <h1 class="text-center">Services</h1>
             <h4 class="text-center">All services done by expert barbers in a shop with an old school feel. Free beer
@@ -203,86 +203,110 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
 
-            <!-- ********* CONTACT SECTION ********* -->
+    <!-- ********* CONTACT SECTION ********* -->
 
-            <section id="contact">
-                <div class="container-fluid bg-contact">
-                    <h1 class="text-center">Contact Us</h1>
+    <section id="contact">
+        <div class="container-fluid bg-contact">
+            <h4 class="text-center">Need to get in touch with us?</h4>
+            <p>For appointments:
+                <ul>
+                    <li>Schedule Online <a href="https://www.vagaro.com/thebarberetteshop" target="_blank">HERE</a> or,</li>
+                    <li>Call (574) 322-5511 or,</li>
+                    <li>Come on in! Walk-ins welcome!</li>
+                </ul>
+            </p>
+            <p>For questions, comments, and everything else:
+                <ul>
+                    <li>Call (574) 322-5511 or</li>
+                    <li>Fill out the contact form below</li>
+                </ul>
+            </p>
 
-                    <div class="container" id="location">
-                        <address>
-                            <h3>The Barberette Shop </h3>27751 County Road 26, Elkhart, IN 46517
-                        </address>
-                        <iframe class="location-map"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2982.4289812751285!2d-86.00003338519447!3d41.62485808920391!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8816c3eec3fce903%3A0xaa7fcf9c3aad066b!2s27751%20Co%20Rd%2026%2C%20Elkhart%2C%20IN%2046517!5e0!3m2!1sen!2sus!4v1586618937988!5m2!1sen!2sus"
-                            width="300" height="300" frameborder="0" style="border:0;" allowfullscreen=""
-                            aria-hidden="false" tabindex="0"></iframe>
+            <div class="container" id="location">
+                <address>
+                    <h4>The Barberette Shop</h4>27751 County Road 26, Elkhart, IN 46517
+                </address>
+                <iframe class="location-map"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2982.4289812751285!2d-86.00003338519447!3d41.62485808920391!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8816c3eec3fce903%3A0xaa7fcf9c3aad066b!2s27751%20Co%20Rd%2026%2C%20Elkhart%2C%20IN%2046517!5e0!3m2!1sen!2sus!4v1586618937988!5m2!1sen!2sus"
+                    width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+                    tabindex="0"></iframe>
+            </div>
+
+            <div class="container" id="contact-form">
+                <h4>Contact Form</h4>
+                <form>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="input-first-name">First Name</label>
+                            <input type="text" class="form-control" id="input-first-name" placeholder="First Name">
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label for="input-last-name">Last Name</label>
+                            <input type="text" class="form-control" id="input-last-name" placeholder="Last Name">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6 col-lg-12">
+                            <label for="input-email">Email Address</label>
+                            <input type="email" class="form-control" id="input-email" placeholder="example@email.com">
+                        </div>                        
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="contact-message">Message</label>
+                        <textarea class="form-control" id="contact-message" rows="3" placeholder="Enter Message Here"></textarea>
                     </div>
 
-                    <div class="container" id="contact-form">
-                        <form>
-                            <div class="form-row">
-                                <div class="form-group col-md-6">
-                                    <label for="inputEmail4">Email</label>
-                                    <input type="email" class="form-control" id="inputEmail4">
-                                </div>
-                                <div class="form-group col-md-6">
-                                    <label for="inputPassword4">Password</label>
-                                    <input type="password" class="form-control" id="inputPassword4">
-                                </div>
-                            </div>
-                            <div class="form-group">
-                                <label for="inputAddress">Address</label>
-                                <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
-                            </div>
-                            <div class="form-group">
-                                <label for="inputAddress2">Address 2</label>
-                                <input type="text" class="form-control" id="inputAddress2"
-                                    placeholder="Apartment, studio, or floor">
-                            </div>
-                            <div class="form-row">
-                                <div class="form-group col-md-6">
-                                    <label for="inputCity">City</label>
-                                    <input type="text" class="form-control" id="inputCity">
-                                </div>
-                                <div class="form-group col-md-4">
-                                    <label for="inputState">State</label>
-                                    <select id="inputState" class="form-control">
-                                        <option selected>Choose...</option>
-                                        <option>...</option>
-                                    </select>
-                                </div>
-                                <div class="form-group col-md-2">
-                                    <label for="inputZip">Zip</label>
-                                    <input type="text" class="form-control" id="inputZip">
-                                </div>
-                            </div>
-                            <div class="form-group">
-                                <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" id="gridCheck">
-                                    <label class="form-check-label" for="gridCheck">
-                                        Check me out
-                                    </label>
-                                </div>
-                            </div>
-                            <button type="submit" class="btn btn-primary">Sign in</button>
-                        </form>
-                    </div>
+                    <button type="submit" class="btn btn-primary" id="contact-btn">SUBMIT</button>
+                </form>
+            </div>
 
-                </div>
+        </div>
+    </section>
 
-            </section>
+    <!-- ********* FOOTER ********* -->
+    <!-- Utilzed code from "UCD-resume" project for footer.-->
+    <footer class="container-fluid">
+        <div class="row">
+            <div class="col-sm-6">
+                <a class="btn btn-danger btn-lg text-uppercase book-now hvr-grow-shadow"
+                    href="https://www.vagaro.com/thebarberetteshop" target="_blank">Book Now
+                </a>
+            </div>
+            <div class="col-sm-6">
+                <h5 class="uppercase general-sub">Social Media</h5>
+                <ul class="list-inline social-links">
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://www.facebook.com/thebarberetteshop/">
+                            <i class="fab fa-facebook" aria-hidden="true"></i>
+                            <span class="sr-only">Facebook</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="#">
+                            <i class="fab fa-twitter" aria-hidden="true"></i>
+                            <span class="sr-only">Twitter</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank"
+                            href="https://www.instagram.com/explore/locations/1293108054203611/the-barberette-shop/">
+                            <i class="fab fa-instagram" aria-hidden="true"></i>
+                            <span class="sr-only">Instagram</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
 
-            <!-- ********* FOOTER ********* -->
+    </footer>
 
-            <footer>
-
-            </footer>
-
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
 </body>
 

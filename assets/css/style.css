@@ -166,9 +166,16 @@ header.masthead .intro-text .intro-lead-in {
     background-color: orange;
 }
 
+#contact-form {
+    background-color: gray;
+}
+
 .location-map {
     margin-bottom: 16px;
 }
 
-
 /* ----------------FOOTER */
+
+footer {
+    background-color: rgba(14, 45, 185, 0.74);
+}
