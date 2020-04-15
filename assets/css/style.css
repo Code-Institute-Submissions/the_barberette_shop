@@ -6,7 +6,7 @@
 /* ----------------COLORS & FONTS */
 
 a {
-    color: rgba(255, 255, 255, 0.771);
+    color: rgba(255, 255, 255, 0.99);
 }
 
 /* ----------------HOVER.CSS */
@@ -21,7 +21,7 @@ a:hover {
 .nav-back {
     background-color: rgba(0, 0, 0, 0.35);
     color: rgba(255, 255, 255, .99);
-    font-weight: 700;
+    font-weight: 800;
 }
 
 
@@ -35,7 +35,7 @@ a:hover {
 
 .navbar-toggler {
     padding: 5px;
-    color: rgba(255, 255, 255, 0.771);
+    color: rgba(255, 255, 255, 0.99);
     background-color: transparent;
 }
 
@@ -65,7 +65,7 @@ header.masthead .intro-text {
 
 header.masthead .intro-text .intro-heading {
     font-size: 3.5em;
-    font-weight: 700;
+    font-weight: 800;
     line-height: 1.5em;
     margin-bottom: 16px;
     font-family: 'Julius Sans One', sans-serif;
@@ -99,9 +99,15 @@ header.masthead .intro-text .intro-lead-in {
     }
 }
 
+.book-now-nav {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    color: rgba(255, 255, 255, .99);
+}
+
 .book-now {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
     margin-top: 16px;
+    color: rgba(255, 255, 255, .99);
 }
 
 /* .hvr-grow-shadow code (below) found at https://ianlunn.github.io/Hover/#effects */
@@ -186,4 +192,10 @@ footer {
     background-color: rgba(14, 45, 185, 0.5);
     min-height: 75px;
     margin: 0;
+}
+
+.book-now-footer {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    color: rgba(255, 255, 255, .99);
+    margin-top: 15px;
 }
