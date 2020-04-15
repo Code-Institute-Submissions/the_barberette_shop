@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,600,700');
 
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Julius+Sans+One&family=Raleway&family=Roboto&display=swap');
+
+
 /* ----------------COLORS & FONTS */
 
 a {
@@ -16,8 +19,11 @@ a:hover {
 /* ----------------NAVBAR */
 
 .nav-back {
-    background-color: rgba(255, 255, 255, 0.171);
+    background-color: rgba(0, 0, 0, 0.35);
+    color: rgba(255, 255, 255, .99);
+    font-weight: 700;
 }
+
 
 .navbar-nav {
     text-align: right;
@@ -40,11 +46,11 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-/*Background image used below (scissors_2.jpg) found at https://www.pexels.com/photo/blue-and-silver-scissors-1319458/ . Photographed by Nick Demou*/
+/*Background image used below (scissors_2.jpg) found at https://www.pexels.com */
 
 header.masthead {
     text-align: center;
-    background-image: url("../images/scissors_2.jpg");
+    background-image: url("../images/brickwall_gray.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
@@ -52,17 +58,17 @@ header.masthead {
 }
 
 header.masthead .intro-text {
-    color: rgba(255, 255, 255, 0.771);
+    color: rgba(255, 255, 255, 0.99);
     padding-top: 250px;
     padding-bottom: 100px;
 }
 
 header.masthead .intro-text .intro-heading {
-    font-size: 2.75em;
+    font-size: 3.5em;
     font-weight: 700;
     line-height: 1.5em;
     margin-bottom: 16px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Julius Sans One', sans-serif;
 }
 
 header.masthead .intro-text .intro-lead-in {
