@@ -1,12 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,600,700');
 
-@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Julius+Sans+One&family=Raleway&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Julius+Sans+One&family=Open+Sans&family=Raleway&family=Roboto&display=swap');
 
 
 /* ----------------COLORS & FONTS */
 
 a {
     color: rgba(255, 255, 255, 0.99);
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
 }
 
 /* ----------------HOVER.CSS */
@@ -41,16 +45,12 @@ a:hover {
 
 /* ----------------LANDING PAGE SECTION */
 
-body {
-    overflow-x: hidden;
-    font-family: 'Lato', sans-serif;
-}
 
 /*Background image used below (scissors_2.jpg) found at https://www.pexels.com */
 
 header.masthead {
     text-align: center;
-    background-image: url("../images/brickwall_gray.jpg");
+    background-image: url("../images/brickwall_gray_dark30.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
@@ -198,4 +198,8 @@ footer {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
     color: rgba(255, 255, 255, .99);
     margin-top: 15px;
+}
+
+.social-links li a i {
+    font-size: 2em;
 }
