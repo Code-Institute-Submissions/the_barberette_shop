@@ -22,12 +22,16 @@ a:hover {
 
 /* ----------------NAVBAR */
 
+nav {
+    font-family: 'Julius Sans One',
+    sans-serif;
+}
+
 .nav-back {
     background-color: rgba(0, 0, 0, 0.35);
     color: rgba(255, 255, 255, .99);
     font-weight: 800;
 }
-
 
 .navbar-nav {
     text-align: right;
@@ -46,7 +50,9 @@ a:hover {
 /* ----------------LANDING PAGE SECTION */
 
 
-/*Background image used below (scissors_2.jpg) found at https://www.pexels.com */
+/* Background image used below found at https://www.pexels.com/photo/brick-brickwall-brickwork-cement-276514/  
+
+   Image was edited using tools found on https://pinetools.com/c-images/  */
 
 header.masthead {
     text-align: center;
