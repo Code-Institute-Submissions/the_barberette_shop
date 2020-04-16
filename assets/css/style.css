@@ -142,6 +142,7 @@ header.masthead .intro-text .intro-lead-in {
 
 #about {
     background-color: rgba(14, 45, 185, 0.74);
+    padding-top: 60px;
 }
 
 #shopBlurb {
@@ -150,7 +151,6 @@ header.masthead .intro-text .intro-lead-in {
 
 #hours {
     background-color: red;
-    margin-bottom: 16px;
 }
 
 .hours-title {
@@ -168,10 +168,7 @@ header.masthead .intro-text .intro-lead-in {
 .bg-services {
     text-align: center;
     background-color: rgba(145, 158, 182, 1);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center center;
-    background-size: cover;
+    padding-top: 60px;
 }
 .card {
     margin-bottom: 10px;
@@ -182,6 +179,7 @@ header.masthead .intro-text .intro-lead-in {
 
 .bg-contact {
     background-color: orange;
+    padding-top: 75px;
 }
 
 #contact-form {
@@ -198,6 +196,7 @@ footer {
     background-color: rgba(14, 45, 185, 0.5);
     min-height: 75px;
     margin: 0;
+    font-family: 'Julius Sans One', sans-serif;
 }
 
 .book-now-footer {
