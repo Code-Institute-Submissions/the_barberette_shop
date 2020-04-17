@@ -138,6 +138,10 @@ header.masthead .intro-text .intro-lead-in {
     transform: scale(1.1);
 }
 
+#landing {
+    background-color: rgba(0,0,0,1);
+}
+
 /* ----------------ABOUT US SECTION */
 
 #about {
@@ -193,18 +197,28 @@ header.masthead .intro-text .intro-lead-in {
 /* ----------------FOOTER */
 
 footer {
-    background-color: rgba(14, 45, 185, 0.5);
-    min-height: 75px;
-    margin: 0;
+    background-color: rgba(63, 63, 63, 0.99);
+
     font-family: 'Julius Sans One', sans-serif;
+    color: rgba(255, 255, 255, .99);
 }
 
 .book-now-footer {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
-    color: rgba(255, 255, 255, .99);
-    margin-top: 15px;
 }
 
-.social-links li a i {
-    font-size: 2em;
+.social-links{
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.website-by {
+    font-style: italic;
+    font-size: .75em;
 }
