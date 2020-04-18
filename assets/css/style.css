@@ -142,15 +142,16 @@ header.masthead .intro-text .intro-lead-in {
     background-color: rgba(0,0,0,1);
 }
 
+#shopBlurb {
+    background-color: transparent;
+    color: rgba(255, 255, 255, .99);
+}
+
 /* ----------------ABOUT US SECTION */
 
 #about {
     background-color: rgba(14, 45, 185, 0.74);
     padding-top: 60px;
-}
-
-#shopBlurb {
-    background-color: gray;
 }
 
 #hours {
@@ -198,7 +199,6 @@ header.masthead .intro-text .intro-lead-in {
 
 footer {
     background-color: rgba(63, 63, 63, 0.99);
-
     font-family: 'Julius Sans One', sans-serif;
     color: rgba(255, 255, 255, .99);
 }
@@ -208,8 +208,7 @@ footer {
 }
 
 .social-links{
-    font-size: 1.5em;
-    margin: 0;
+    font-size: 1.6em;
 }
 
 .footer-container {
