@@ -11,6 +11,10 @@ a {
 
 body {
     font-family: "Open Sans", sans-serif;
+    background-color: black;
+    margin:0;
+    padding:0;
+    border:0;
 }
 
 /* ----------------HOVER.CSS */
@@ -147,6 +151,12 @@ header.masthead .intro-text .intro-lead-in {
     color: rgba(255, 255, 255, .99);
 }
 
+.landing-content {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: justify;
+}
+
 /* ----------------ABOUT US SECTION */
 
 #about {
@@ -154,8 +164,8 @@ header.masthead .intro-text .intro-lead-in {
     padding-top: 60px;
 }
 
-#hours {
-    background-color: red;
+.about-title {
+    color: rgba(255, 255, 255, 0.99);
 }
 
 .hours-title {
@@ -165,6 +175,14 @@ header.masthead .intro-text .intro-lead-in {
 #location {
     background-color: yellow;
     text-align: center;
+}
+
+.hours-table {
+    color: rgba(255, 255, 255, 0.99);
+}
+
+.hours-right {
+    text-align: right;
 }
 
 
@@ -220,4 +238,5 @@ footer {
 .website-by {
     font-style: italic;
     font-size: .75em;
+    margin-top: 8px;
 }
