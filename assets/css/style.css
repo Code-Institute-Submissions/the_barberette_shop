@@ -159,6 +159,11 @@ header.masthead .intro-text .intro-lead-in {
 
 /* ----------------ABOUT US SECTION */
 
+hr.divider {
+    border: 1px solid rgba(63, 63, 63, 0.99);
+    border-width: 75%vw;
+}
+
 #about {
     background-color: rgba(14, 45, 185, 0.74);
     padding-top: 60px;
