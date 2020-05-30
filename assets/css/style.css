@@ -164,11 +164,6 @@ hr.divider {
     border-width: 75%vw;
 }
 
-#about {
-    background-color: rgba(14, 45, 185, 0.74);
-    padding-top: 60px;
-}
-
 .about-title {
     color: rgba(255, 255, 255, 0.99);
 }
@@ -195,11 +190,29 @@ hr.divider {
 
 .bg-services {
     text-align: center;
-    background-color: rgba(145, 158, 182, 1);
-    padding-top: 60px;
+    background-color: rgba(0, 0, 0, 1);
+    padding-top: 3.75rem;
+    /* color: rgba(255, 255, 255, 0.99); */
 }
+
+.services-title {
+    color: rgba(255, 255, 255, 0.99);
+    font-family: 'Julius Sans One',
+    sans-serif;
+    text-decoration: underline;
+}
+
+.services-blurb {
+    color: rgba(255, 255, 255, 0.99);
+    margin-bottom: 18px;
+}
+
 .card {
     margin-bottom: 10px;
+}
+
+.card-header {
+    font-family: 'Julius Sans One', sans-serif;
 }
 
 
