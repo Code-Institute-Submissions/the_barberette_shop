@@ -199,6 +199,7 @@ hr.divider {
     color: rgba(255, 255, 255, 0.99);
     font-family: 'Julius Sans One',
     sans-serif;
+    font-weight: 700;
     text-decoration: underline;
 }
 
@@ -209,12 +210,23 @@ hr.divider {
 
 .card {
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .card-header {
     font-family: 'Julius Sans One', sans-serif;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.99);
+    background-color: #dc3545;
+    border-color: #dc3545;
 }
 
+.book-now-services {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    font-family: 'Julius Sans One',
+    sans-serif;
+    text-transform: uppercase;
+}
 
 /* ----------------CONTACT SECTION */
 
