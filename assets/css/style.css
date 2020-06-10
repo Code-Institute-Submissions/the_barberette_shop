@@ -177,6 +177,8 @@ hr.divider {
     text-align: center;
 }
 
+/*Code to make embedded map responsive found at https://www.ostraining.com/blog/coding/responsive-google-maps/ */
+
 .map-responsive {
     overflow: hidden;
     padding-bottom: 56.25%;
@@ -244,13 +246,18 @@ hr.divider {
 
 /* ----------------CONTACT SECTION */
 
+#contact {
+    color: rgba(255, 255, 255, .99);
+}
+
 .bg-contact {
-    background-color: orange;
+    background-color: rgba(63, 63, 63, 0.99);
     padding-top: 75px;
+    padding-bottom: 1.2rem;
 }
 
 #contact-form {
-    background-color: gray;
+    background-color: transparent;
 }
 
 
