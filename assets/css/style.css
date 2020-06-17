@@ -6,7 +6,7 @@
 /* ----------------COLORS & FONTS */
 
 a {
-    color: rgba(255, 255, 255, 0.99);
+    color: rgba(255, 255, 255, 1);
 }
 
 body {
@@ -33,7 +33,7 @@ nav {
 
 .nav-back {
     background-color: rgba(0, 0, 0, 0.35);
-    color: rgba(255, 255, 255, .99);
+    color: rgba(255, 255, 255, 1);
     font-weight: 800;
 }
 
@@ -47,7 +47,7 @@ nav {
 
 .navbar-toggler {
     padding: 5px;
-    color: rgba(255, 255, 255, 0.99);
+    color: rgba(255, 255, 255, 1);
     background-color: transparent;
 }
 
@@ -68,7 +68,7 @@ header.masthead {
 }
 
 header.masthead .intro-text {
-    color: rgba(255, 255, 255, 0.99);
+    color: rgba(255, 255, 255, 1);
     padding-top: 250px;
     padding-bottom: 100px;
     font-family: 'Julius Sans One', sans-serif;
@@ -111,13 +111,13 @@ header.masthead .intro-text .intro-lead-in {
 
 .book-now-nav {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
-    color: rgba(255, 255, 255, .99);
+    color: rgba(255, 255, 255, 1);
 }
 
 .book-now {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
     margin-top: 16px;
-    color: rgba(255, 255, 255, .99);
+    color: rgba(255, 255, 255, 1);
 }
 
 /* .hvr-grow-shadow code (below) found at https://ianlunn.github.io/Hover/#effects */
@@ -148,7 +148,7 @@ header.masthead .intro-text .intro-lead-in {
 
 #shopBlurb {
     background-color: transparent;
-    color: rgba(255, 255, 255, .99);
+    color: rgba(255, 255, 255, 1);
 }
 
 .landing-content {
@@ -159,13 +159,8 @@ header.masthead .intro-text .intro-lead-in {
 
 /* ----------------ABOUT US SECTION */
 
-hr.divider {
-    border: 1px solid rgba(63, 63, 63, 0.99);
-    border-width: 75%vw;
-}
-
 .about-title {
-    color: rgba(255, 255, 255, 0.99);
+    color: rgba(255, 255, 255, 1);
 }
 
 .hours-title {
@@ -195,7 +190,7 @@ hr.divider {
 }
 
 .hours-table {
-    color: rgba(255, 255, 255, 0.99);
+    color: rgba(255, 255, 255, 1);
 }
 
 .hours-right {
@@ -212,7 +207,7 @@ hr.divider {
 }
 
 .services-title {
-    color: rgba(255, 255, 255, 0.99);
+    color: rgba(255, 255, 255, 1);
     font-family: 'Julius Sans One',
     sans-serif;
     font-weight: 700;
@@ -220,7 +215,7 @@ hr.divider {
 }
 
 .services-blurb {
-    color: rgba(255, 255, 255, 0.99);
+    color: rgba(255, 255, 255, 1);
     margin-bottom: 18px;
 }
 
@@ -232,7 +227,7 @@ hr.divider {
 .card-header {
     font-family: 'Julius Sans One', sans-serif;
     font-weight: 700;
-    color: rgba(255, 255, 255, 0.99);
+    color: rgba(255, 255, 255, 1);
     background-color: #dc3545;
     border-color: #dc3545;
 }
@@ -247,7 +242,7 @@ hr.divider {
 /* ----------------CONTACT SECTION */
 
 #contact {
-    color: rgba(255, 255, 255, .99);
+    color: rgba(255, 255, 255, 1);
 }
 
 .bg-contact {
@@ -267,7 +262,7 @@ hr.divider {
 footer {
     background-color: rgba(63, 63, 63, 0.99);
     font-family: 'Julius Sans One', sans-serif;
-    color: rgba(255, 255, 255, .99);
+    color: rgba(255, 255, 255, 1);
 }
 
 .book-now-footer {
@@ -293,7 +288,7 @@ footer {
 .footer-table {
     font-family: 'Julius Sans One',
     sans-serif;
-    color: rgba(255, 255, 255, .99);
+    color: rgba(255, 255, 255, 1);
 }
 
 .table-container {
