@@ -22,12 +22,12 @@
 
   <nav class="navbar navbar-expand-lg fixed-top nav-back" id="main-nav">
     <div class="container">
-      <a class="navbar-brand nav-name" href="index.html">The Barberette Shop
+      <a class="navbar-brand nav-name" href="index.html" aria-label="The Barberette Shop home page">The Barberette Shop
       </a>
 
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
         data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
-        aria-label="Toggle navigation">
+        aria-label="Menu">
         Menu
         <i class="fas fa-bars"></i>
       </button>
@@ -35,17 +35,18 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav text-uppercase ml-auto">
           <li class="nav-item">
-            <a href="index.html" class="nav-link">Home</a>
+            <a href="index.html" class="nav-link" aria-label="Home page">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="services.html">Services</a>
+            <a class="nav-link" href="services.html" aria-label="Services Page">Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="contact.html">Contact</a>
+            <a class="nav-link disabled" href="contact.html" aria-label="Book Appointment Now">Contact</a>
           </li>
           <li class="nav-item">
             <a class="nav-item btn btn-danger btn-md text-uppercase book-now-nav hvr-grow-shadow"
-              href="https://www.vagaro.com/thebarberetteshop" target="_blank"> Book Now</a>
+              href="https://www.vagaro.com/thebarberetteshop" aria-label="Book Appointment Now" target="_blank"> Book
+              Now</a>
           </li>
         </ul>
       </div>
@@ -80,7 +81,8 @@
             <textarea class="form-control" id="contact-message" rows="3" placeholder="Enter Message Here"></textarea>
           </div>
 
-          <button type="submit" class="btn btn-danger" id="contact-btn">SUBMIT</button>
+          <button type="submit" class="btn btn-danger" id="contact-btn"
+            aria-label="Submit contact form">SUBMIT</button>
         </form>
       </div>
     </div>
@@ -88,7 +90,7 @@
     <div class="container-fluid map-responsive" id="location">
       <iframe class="location-map"
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2982.4289812751285!2d-86.00003338519447!3d41.62485808920391!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8816c3eec3fce903%3A0xaa7fcf9c3aad066b!2s27751%20Co%20Rd%2026%2C%20Elkhart%2C%20IN%2046517!5e0!3m2!1sen!2sus!4v1586618937988!5m2!1sen!2sus"
-        width="300" height="300" style="border:0;" allowfullscreen="false" aria-hidden="false" tabindex="0"></iframe>
+        width="300" height="300" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
     </div>
 
   </section>
@@ -120,7 +122,7 @@
 
       <div class="col-6 col-sm-4 container-fluid footer-container">
         <a class="btn btn-danger text-uppercase book-now-footer hvr-grow-shadow"
-          href="https://www.vagaro.com/thebarberetteshop" target="_blank">Book Now
+          href="https://www.vagaro.com/thebarberetteshop" aria-label="Book Appointment Now" target="_blank">Book Now
         </a>
       </div>
 
