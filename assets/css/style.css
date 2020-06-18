@@ -1,7 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:100,200,300,400,500,600,700');
-
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Julius+Sans+One&family=Open+Sans&family=Raleway&family=Roboto&display=swap');
-
 
 /* ----------------COLORS & FONTS */
 
@@ -12,9 +9,9 @@ a {
 body {
     font-family: "Open Sans", sans-serif;
     background-color: black;
-    margin:0;
-    padding:0;
-    border:0;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
 /* ----------------HOVER.CSS */
@@ -28,7 +25,7 @@ a:hover {
 
 nav {
     font-family: 'Julius Sans One',
-    sans-serif;
+        sans-serif;
 }
 
 .nav-back {
@@ -143,7 +140,7 @@ header.masthead .intro-text .intro-lead-in {
 }
 
 #landing {
-    background-color: rgba(0,0,0,1);
+    background-color: rgba(0, 0, 0, 1);
 }
 
 #shopBlurb {
@@ -163,10 +160,6 @@ header.masthead .intro-text .intro-lead-in {
     color: rgba(255, 255, 255, 1);
 }
 
-.hours-title {
-    text-align: center;
-}
-
 #location {
     background-color: rgba(0, 0, 0, 1);
     text-align: center;
@@ -181,22 +174,13 @@ header.masthead .intro-text .intro-lead-in {
     height: 0;
 }
 
-.map-responsive iframe{
+.map-responsive iframe {
     left: 0;
     top: 0;
     height: 100%;
     width: 100%;
     position: absolute;
 }
-
-.hours-table {
-    color: rgba(255, 255, 255, 1);
-}
-
-.hours-right {
-    text-align: right;
-}
-
 
 /* ----------------SERVICES SECTION */
 
@@ -209,7 +193,7 @@ header.masthead .intro-text .intro-lead-in {
 .services-title {
     color: rgba(255, 255, 255, 1);
     font-family: 'Julius Sans One',
-    sans-serif;
+        sans-serif;
     font-weight: 700;
     text-decoration: underline;
 }
@@ -234,7 +218,7 @@ header.masthead .intro-text .intro-lead-in {
 .book-now-services {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
     font-family: 'Julius Sans One',
-    sans-serif;
+        sans-serif;
     text-transform: uppercase;
 }
 
@@ -268,12 +252,12 @@ footer {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
-.social-links{
+.social-links {
     font-size: 1.6em;
 }
 
 @media (min-width: 768px) {
-    .social-links{
+    .social-links {
         font-size: 2.5em;
     }
 }
@@ -286,7 +270,7 @@ footer {
 
 .footer-table {
     font-family: 'Julius Sans One',
-    sans-serif;
+        sans-serif;
     color: rgba(255, 255, 255, 1);
 }
 
