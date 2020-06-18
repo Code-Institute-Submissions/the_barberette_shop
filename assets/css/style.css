@@ -85,27 +85,6 @@ header.masthead .intro-text .intro-lead-in {
     margin-bottom: 16px;
 }
 
-@media (min-width: 768px) {
-    header.masthead .intro-text {
-        padding-top: 250px;
-        padding-bottom: 200px;
-    }
-
-    header.masthead .intro-text .intro-lead-in {
-        font-size: 40px;
-        font-style: italic;
-        line-height: 40px;
-        margin-bottom: 25px;
-    }
-
-    header.masthead .intro-text .intro-heading {
-        font-size: 75px;
-        font-weight: 700;
-        line-height: 75px;
-        margin-bottom: 50px;
-    }
-}
-
 .book-now-nav {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
     color: rgba(255, 255, 255, 1);
@@ -287,4 +266,27 @@ footer {
 .website-by {
     font-style: italic;
     font-size: .85em;
+}
+
+/* ----------------MEDIA QUERIES */
+
+@media (min-width: 768px) {
+    header.masthead .intro-text {
+        padding-top: 250px;
+        padding-bottom: 200px;
+    }
+
+    header.masthead .intro-text .intro-lead-in {
+        font-size: 40px;
+        font-style: italic;
+        line-height: 40px;
+        margin-bottom: 25px;
+    }
+
+    header.masthead .intro-text .intro-heading {
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+        margin-bottom: 50px;
+    }
 }
