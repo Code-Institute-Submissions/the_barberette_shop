@@ -10,6 +10,13 @@ Sources of inspiration.
   4. https://code-institute-solutions.github.io/StudentExampleProjectGradeFive/index.html 
   5. 
   
+Image Sources
+  1. https://www.facebook.com/thebarberetteshop/photos/?ref=page_internal
+  2. https://www.yelp.com/biz_photos/the-barberette-shop-elkhart 
+  3. https://www.vagaro.com/thebarberetteshop 
+  4. https://www.pexels.com/ 
+    a. Brick background image on the landing page - https://www.pexels.com/photo/brick-brickwall-brickwork-cement-276514/ 
+    b.
 
 Fonts - https://fonts.google.com/ 
 
@@ -24,5 +31,5 @@ Background image found
 Footer - code from UCD-resume project used as a starting point for the footer.
 
 Other Resources
- 1. https://dev.to/manjula_dube/target-blank-the-most-underrated-security-vulnerability-4eia
+
  
