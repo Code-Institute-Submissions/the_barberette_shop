@@ -284,6 +284,10 @@ footer {
     .social-links {
         font-size: 2.5em;
     }
+
+    .table-container {
+        padding-left: 8vw;
+    }
 }
 
 @media (max-width: 410px) {
