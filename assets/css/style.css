@@ -238,12 +238,6 @@ footer {
     font-size: 1.6em;
 }
 
-@media (min-width: 768px) {
-    .social-links {
-        font-size: 2.5em;
-    }
-}
-
 .footer-container {
     display: flex;
     justify-content: center;
@@ -258,12 +252,6 @@ footer {
 
 .table-container {
     padding-left: 30px;
-}
-
-@media (max-width: 410px) {
-    .table-container {
-        padding-left: 15px;
-    }
 }
 
 .website-by {
@@ -291,5 +279,15 @@ footer {
         font-weight: 700;
         line-height: 75px;
         margin-bottom: 50px;
+    }
+
+    .social-links {
+        font-size: 2.5em;
+    }
+}
+
+@media (max-width: 410px) {
+    .table-container {
+        padding-left: 15px;
     }
 }
