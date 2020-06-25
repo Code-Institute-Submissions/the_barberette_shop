@@ -18,18 +18,25 @@ Image Sources
     a. Brick background image on the landing page - https://www.pexels.com/photo/brick-brickwall-brickwork-cement-276514/ 
     b.
 
+Testing
+  1. CSS linting: csslint.net
+  2. HTML Validation: 
+  3. CSS Validation:
+  4. Website speed testing: 
+  5. 
+
+
 Fonts - https://fonts.google.com/ 
 
 Icons - https://fontawesome.com/?from=io 
 
 Navbar code modeled after the navbar found at https://blackrockdigital.github.io/startbootstrap-agency/ 
 
-Background image found 
-
 .hvr-grow-shadow code found at https://ianlunn.github.io/Hover/#effects
 
 Footer - code from UCD-resume project used as a starting point for the footer.
 
 Other Resources
+ 1. Image editing: https://pinetools.com/c-images/
 
  
