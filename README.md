@@ -2,8 +2,8 @@
 
 # **The Barberette Shop Website**
 ## Table of Contents
-### 1. [Description](description)
-### 2. [Wireframe and Live Site Links](links)
+### 1. [Description](#description)
+### 2. [Wireframe and Live Site](#links)
 
 <a name="description"></a>
 
@@ -19,7 +19,8 @@ The pages of this website are as follows:
 
 <a name="links"></a>
 
-## 
+## Wireframes and Live Site
+
 
 Milestone Project #1
 The Barberette Shop Website
