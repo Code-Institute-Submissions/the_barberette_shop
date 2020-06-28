@@ -22,7 +22,7 @@ The pages of this website are as follows:
 <a name="wireframes"></a>
 
 ## Wireframes
-Wireframes were created mobile, tablet, and laptop sized screens. Links to each are below:
+Wireframes were created for mobile, tablet, and laptop sized screens. Links to each are below:
 - [Mobile Wireframe](assets/wireframes/barberette_wire_mobile.pdf)
 - [Tablet Wireframe](assets/wireframes/barberette_wire_tablet.pdf)
 - [Laptop Wireframe](assets/wireframes/barberette_wire_largescreen.pdf)
