@@ -2,25 +2,19 @@
 
 # **The Barberette Shop Website**
 ## Table of Contents
-### 1. [Description](#description)
-### 2. [Wireframes](#wireframes)
-### 3. [Deployment](#deployment)
-### 4. [UX](#ux)
-### 5. [User Stories](#stories)
-### 6. [Features](#features)
-###     -Existing Features
-###     -Future Features
-### 7. [Testing](#testing)
-### 8. [Technologies/Tools Used](#tools)
-### 9. [Credit](#credit)
-###    -Content
-###    -Media
-###    -Acknowledgements
-
+1. [Description](#description)
+2. [Wireframes](#wireframes)
+3. [Deployment](#deployment)
+4. [UX](#ux)
+5. [User Stories](#stories)
+6. [Features](#features)
+7. [Testing](#testing)
+8. [Technologies/Tools Used](#tools)
+9. [Credit](#credit)
 
 <a name="description"></a>
 
-## Description
+## **Description**
 This is the static website for a real barbershop located in Elkhart, Indiana.
 
 The purpose of this website is to provide current and potential customers all the information about The Barberette Shop needed to book an appointment, such as services provided with images for examples, pricing, shop location, and 'buttons' that allow customers the convenience of scheduling an appointment online.
@@ -32,7 +26,7 @@ The pages of this website are as follows:
 
 <a name="wireframes"></a>
 
-## Wireframes
+## **Wireframes**
 Wireframes were created for mobile, tablet, and laptop sized screens. Links to each are below:
 - [Mobile Wireframe](assets/wireframes/barberette_wire_mobile.pdf)
 - [Tablet Wireframe](assets/wireframes/barberette_wire_tablet.pdf)
@@ -40,27 +34,27 @@ Wireframes were created for mobile, tablet, and laptop sized screens. Links to e
 
 <a name="deployment"></a>
 
-## Deployment
+## **Deployment**
 The Barberette Shop website has been deployed to github pages and can be accessed [HERE](https://samlud1110.github.io/milestone_one/).
 
 <a name="ux"></a>
 
-## UX
+## **UX**
 
 
 <a name="stories"></a>
 
-## User Stories
+## **User Stories**
 
 
 <a name="features"></a>
 
-## Features
+## **Features**
 
 
 <a name="testing"></a>
 
-## Testing
+## **Testing**
 - CSS linting: csslint.net
 - HTML Validation: https://validator.w3.org/#validate_by_input 
 - CSS Validation: https://jigsaw.w3.org/css-validator/#validate_by_input 
@@ -69,12 +63,12 @@ The Barberette Shop website has been deployed to github pages and can be accesse
 
 <a name="tools"></a>
 
-## Technologies/Tools Used
+## **Technologies/Tools Used**
  
 
 <a name="credit"></a>
 
-## Credits
+## **Credits**
 
   ### Content
   ### Media
