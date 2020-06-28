@@ -76,6 +76,7 @@ Footer - code from UCD-resume project used as a starting point for the footer.
 
 Other Resources
  1. Image editing: https://pinetools.com/c-images/
+ 2. Favicon generator: https://favicon.io/favicon-converter/
 
 
  
