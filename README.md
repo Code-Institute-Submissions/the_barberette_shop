@@ -1,9 +1,7 @@
 ![The Barberette Shop](assets/images/barberette_title.jpg)
 
 # The Barberette Shop Website
----
 ## Description
----
 This is the static website for a real barbershop located in Elkhart, Indiana.
 
 The purpose of this website is to provide current and potential customers all the information about The Barberette Shop needed to book an appointment, such as services provided with images for examples, pricing, shop location, and buttons that allow customers the convenience of scheduling an appointment online.
