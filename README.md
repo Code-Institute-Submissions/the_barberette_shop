@@ -3,23 +3,35 @@
 # **The Barberette Shop Website**
 ## Table of Contents
 ### 1. [Description](#description)
-### 2. [Wireframe and Live Site](#links)
+### 2. [Wireframes](#wireframes)
+### 3. [Deployment](#deployment)
+
 
 <a name="description"></a>
 
 ## Description
 This is the static website for a real barbershop located in Elkhart, Indiana.
 
-The purpose of this website is to provide current and potential customers all the information about The Barberette Shop needed to book an appointment, such as services provided with images for examples, pricing, shop location, and buttons that allow customers the convenience of scheduling an appointment online.
+The purpose of this website is to provide current and potential customers all the information about The Barberette Shop needed to book an appointment, such as services provided with images for examples, pricing, shop location, and 'buttons' that allow customers the convenience of scheduling an appointment online.
 
 The pages of this website are as follows:
 - **Home:** A landing page where a call-to-action "Book Now" button is immediately available for reasons discussed in depth later. There is also a short introduction to the barbershop and a map showing it's location.
 - **Services:** Provides information about the services offered, with prices and images included. 
 - **Contact:** A page with a contact form for customers with any questions and another map showing the location.
 
-<a name="links"></a>
+<a name="wireframes"></a>
 
-## Wireframes and Live Site
+## Wireframes
+Wireframes were created mobile, tablet, and laptop sized screens. Links to each are below:
+- [Mobile Wireframe](assets/wireframes/barberette_wire_mobile.pdf)
+- [Tablet Wireframe](assets/wireframes/barberette_wire_tablet.pdf)
+- [Laptop Wireframe](assets/wireframes/barberette_wire_largescreen.pdf)
+
+<a name="deployment"></a>
+
+## Deployment
+The Barberette Shop website has been deployed to github pages and can be accessed [HERE](https://samlud1110.github.io/milestone_one/).
+
 
 
 Milestone Project #1
