@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 ![The Barberette Shop](assets/images/barberette_title.jpg)
 
 # **The Barberette Shop Website**
@@ -31,6 +33,7 @@ The pages of this website are as follows:
 - **Home:** A landing page where a call-to-action "Book Now" button is immediately available for reasons discussed in depth later. There is also a short introduction to the barbershop and a map showing it's location.
 - **Services:** Provides information about the services offered, with prices and images included. 
 - **Contact:** A page with a contact form for customers with any questions and another map showing the location.
+[Return to Top](#top)
 
 <a name="wireframes"></a>
 
@@ -39,11 +42,13 @@ Wireframes were created for mobile, tablet, and laptop sized screens. Links to e
 - [Mobile Wireframe](assets/wireframes/barberette_wire_mobile.pdf)
 - [Tablet Wireframe](assets/wireframes/barberette_wire_tablet.pdf)
 - [Laptop Wireframe](assets/wireframes/barberette_wire_largescreen.pdf)
+[Return to Top](#top)
 
 <a name="deployment"></a>
 
 ## **Deployment**
 The Barberette Shop website has been deployed to github pages and can be accessed [HERE](https://samlud1110.github.io/milestone_one/).
+[Return to Top](#top)
 
 <a name="ux"></a>
 
@@ -68,6 +73,7 @@ The Barberette Shop website has been deployed to github pages and can be accesse
 - HTML Validation: https://validator.w3.org/#validate_by_input 
 - CSS Validation: https://jigsaw.w3.org/css-validator/#validate_by_input 
 - Website speed testing: https://tools.pingdom.com/ 
+[Return to Top](#top)
 
 <a name="tools"></a>
 
