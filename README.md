@@ -23,7 +23,7 @@ Testing
   2. HTML Validation: 
   3. CSS Validation:
   4. Website speed testing: 
-  5. 
+  5. CSS autoprefixer:
 
 
 Fonts - https://fonts.google.com/ 
@@ -38,5 +38,6 @@ Footer - code from UCD-resume project used as a starting point for the footer.
 
 Other Resources
  1. Image editing: https://pinetools.com/c-images/
+
 
  
