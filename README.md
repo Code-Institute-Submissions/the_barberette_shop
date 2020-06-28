@@ -1,5 +1,10 @@
+![The Barberette Shop](assets/images/barberette_title.jpg)
+
+
 Milestone Project #1
 The Barberette Shop Website
+
+
 
 https://samlud1110.github.io/milestone_one/
 
