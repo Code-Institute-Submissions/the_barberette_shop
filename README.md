@@ -8,17 +8,17 @@
 4. [UX](#ux)
 5. [User Stories](#stories)
 6. [Features](#features)
-  - Existing Features
-  - Removed Features
-  - Future Features/Scalability
+   - Existing Features
+   - Removed Features
+   - Future Features/Scalability
 7. [Testing](#testing)
 8. [Technologies/Tools Used](#tools)
-  - Languages and Frameworks
-  - Tools
+   - Languages and Frameworks
+   - Tools
 9. [Credit](#credit)
-  - Content
-  - Media
-  - Acknowledgements
+   - Content
+   - Media
+   - Acknowledgements
 
 <a name="description"></a>
 
@@ -67,8 +67,7 @@ The Barberette Shop website has been deployed to github pages and can be accesse
 ## **Testing**
 - HTML Validation: https://validator.w3.org/#validate_by_input 
 - CSS Validation: https://jigsaw.w3.org/css-validator/#validate_by_input 
-- Website speed testing: 
-- CSS autoprefixer: https://autoprefixer.github.io/
+- Website speed testing: https://tools.pingdom.com/ 
 
 <a name="tools"></a>
 
@@ -78,13 +77,15 @@ The Barberette Shop website has been deployed to github pages and can be accesse
   - CSS
   - Bootstrap
   ### Tools Used
-
+  - CSS autoprefixer: https://autoprefixer.github.io/
+  - Image editing: https://pinetools.com/c-images/
+  - Favicon generator: https://favicon.io/favicon-converter/
 
 <a name="credit"></a>
 
 ## **Credits**
   ### Content
-  The text used throughout the website was taken from The Barberette Shop's existing online sources including [facebook](https://www.facebook.com/thebarberetteshop), [Vagaro](https://www.vagaro.com/thebarberetteshop), and [Yelp](https://www.yelp.com/biz/the-barberette-shop-elkhart) with some minor edits.
+  The text used throughout the website was taken from The Barberette Shop's existing online sources including [Facebook](https://www.facebook.com/thebarberetteshop), [Vagaro](https://www.vagaro.com/thebarberetteshop), and [Yelp](https://www.yelp.com/biz/the-barberette-shop-elkhart) with some minor edits.
   ### Media
   Images used for this website were found at the following locations:
   - https://www.facebook.com/thebarberetteshop/photos/?ref=page_internal
