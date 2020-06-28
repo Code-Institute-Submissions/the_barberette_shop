@@ -8,9 +8,17 @@
 4. [UX](#ux)
 5. [User Stories](#stories)
 6. [Features](#features)
+  - Existing Features
+  - Removed Features
+  - Future Features/Scalability
 7. [Testing](#testing)
 8. [Technologies/Tools Used](#tools)
+  - Languages and Frameworks
+  - Tools
 9. [Credit](#credit)
+  - Content
+  - Media
+  - Acknowledgements
 
 <a name="description"></a>
 
@@ -50,29 +58,35 @@ The Barberette Shop website has been deployed to github pages and can be accesse
 <a name="features"></a>
 
 ## **Features**
-
+  ### Existing Features
+  ### Removed Features
+  ### Future Features/Scalability
 
 <a name="testing"></a>
 
 ## **Testing**
-- CSS linting: csslint.net
 - HTML Validation: https://validator.w3.org/#validate_by_input 
 - CSS Validation: https://jigsaw.w3.org/css-validator/#validate_by_input 
 - Website speed testing: 
-- CSS autoprefixer:
+- CSS autoprefixer: https://autoprefixer.github.io/
 
 <a name="tools"></a>
 
 ## **Technologies/Tools Used**
- 
+  ### Languages and Frameworks
+  - HTML
+  - CSS
+  - Bootstrap
+  ### Tools Used
+
 
 <a name="credit"></a>
 
 ## **Credits**
-
   ### Content
+  The text used throughout the website was taken from The Barberette Shop's existing online sources including [facebook](https://www.facebook.com/thebarberetteshop), [Vagaro](https://www.vagaro.com/thebarberetteshop), and [Yelp](https://www.yelp.com/biz/the-barberette-shop-elkhart) with some minor edits.
   ### Media
-  **Image Sources**
+  Images used for this website were found at the following locations:
   - https://www.facebook.com/thebarberetteshop/photos/?ref=page_internal
   - https://www.yelp.com/biz_photos/the-barberette-shop-elkhart 
   - https://www.vagaro.com/thebarberetteshop 
