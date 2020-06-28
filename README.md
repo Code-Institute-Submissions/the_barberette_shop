@@ -5,6 +5,17 @@
 ### 1. [Description](#description)
 ### 2. [Wireframes](#wireframes)
 ### 3. [Deployment](#deployment)
+### 4. [UX](#ux)
+### 5. [User Stories](#stories)
+### 6. [Features](#features)
+###     -Existing Features
+###     -Future Features
+### 7. [Testing](#testing)
+### 8. [Technologies/Tools Used](#tools)
+### 9. [Credit](#credit)
+###    -Content
+###    -Media
+###    -Acknowledgements
 
 
 <a name="description"></a>
@@ -32,6 +43,55 @@ Wireframes were created for mobile, tablet, and laptop sized screens. Links to e
 ## Deployment
 The Barberette Shop website has been deployed to github pages and can be accessed [HERE](https://samlud1110.github.io/milestone_one/).
 
+<a name="ux"></a>
+
+## UX
+
+
+<a name="stories"></a>
+
+## User Stories
+
+
+<a name="features"></a>
+
+## Features
+
+
+<a name="testing"></a>
+
+## Testing
+- CSS linting: csslint.net
+- HTML Validation: https://validator.w3.org/#validate_by_input 
+- CSS Validation: https://jigsaw.w3.org/css-validator/#validate_by_input 
+- Website speed testing: 
+- CSS autoprefixer:
+
+<a name="tools"></a>
+
+## Technologies/Tools Used
+ 
+
+<a name="credit"></a>
+
+## Credits
+
+  ### Content
+  ### Media
+  **Image Sources**
+  - https://www.facebook.com/thebarberetteshop/photos/?ref=page_internal
+  - https://www.yelp.com/biz_photos/the-barberette-shop-elkhart 
+  - https://www.vagaro.com/thebarberetteshop 
+  - https://www.pexels.com/ 
+    - Brick background image on the landing page - https://www.pexels.com/photo/brick-brickwall-brickwork-cement-276514/ 
+    - x
+  - http://ami.responsivedesign.is/
+
+  ### Acknowledgements
+  - Navbar code modeled after the navbar found at https://blackrockdigital.github.io/startbootstrap-agency/
+  - .hvr-grow-shadow code found at https://ianlunn.github.io/Hover/#effects
+  - Footer - code from UCD-resume project used as a starting point for the footer.
+
 
 
 Milestone Project #1
@@ -42,41 +102,39 @@ The Barberette Shop Website
 https://samlud1110.github.io/milestone_one/
 
 Sources of inspiration.
-  1. https://getbootstrap.com/ 
-  2. http://chivalrygroomingparlour.com/
-  3. https://startbootstrap.com/ 
-  4. https://code-institute-solutions.github.io/StudentExampleProjectGradeFive/index.html 
-  5. 
+  - https://getbootstrap.com/ 
+  - http://chivalrygroomingparlour.com/
+  - https://startbootstrap.com/ 
+  - https://code-institute-solutions.github.io/StudentExampleProjectGradeFive/index.html 
+   
   
 Image Sources
   1. https://www.facebook.com/thebarberetteshop/photos/?ref=page_internal
   2. https://www.yelp.com/biz_photos/the-barberette-shop-elkhart 
   3. https://www.vagaro.com/thebarberetteshop 
   4. https://www.pexels.com/ 
-    a. Brick background image on the landing page - https://www.pexels.com/photo/brick-brickwall-brickwork-cement-276514/ 
-    b.
+    - Brick background image on the landing page - https://www.pexels.com/photo/brick-brickwall-brickwork-cement-276514/ 
+    - x
+  5. http://ami.responsivedesign.is/
 
 Testing
-  1. CSS linting: csslint.net
-  2. HTML Validation: 
-  3. CSS Validation:
-  4. Website speed testing: 
-  5. CSS autoprefixer:
+  - CSS linting: csslint.net
+  - HTML Validation: https://validator.w3.org/#validate_by_input 
+  - CSS Validation: https://jigsaw.w3.org/css-validator/#validate_by_input 
+  - Website speed testing: 
+  - CSS autoprefixer:
 
 
 Fonts - https://fonts.google.com/ 
 
 Icons - https://fontawesome.com/?from=io 
 
-Navbar code modeled after the navbar found at https://blackrockdigital.github.io/startbootstrap-agency/ 
 
-.hvr-grow-shadow code found at https://ianlunn.github.io/Hover/#effects
 
-Footer - code from UCD-resume project used as a starting point for the footer.
-
-Other Resources
+Other Tools Used
  1. Image editing: https://pinetools.com/c-images/
  2. Favicon generator: https://favicon.io/favicon-converter/
+ 3. 
 
 
  
