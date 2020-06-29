@@ -33,8 +33,8 @@ The pages of this website are as follows:
 - **Home:** A landing page where a call-to-action "Book Now" button is immediately available for reasons discussed in depth later. There is also a short introduction to the barbershop and a map showing it's location.
 - **Services:** Provides information about the services offered, with prices and images included. 
 - **Contact:** A page with a contact form for customers with any questions and another map showing the location.
-[Return to Top](#top)
 
+[Table of Contents](#top)
 <a name="wireframes"></a>
 
 ## **Wireframes**
@@ -42,24 +42,26 @@ Wireframes were created for mobile, tablet, and laptop sized screens. Links to e
 - [Mobile Wireframe](assets/wireframes/barberette_wire_mobile.pdf)
 - [Tablet Wireframe](assets/wireframes/barberette_wire_tablet.pdf)
 - [Laptop Wireframe](assets/wireframes/barberette_wire_largescreen.pdf)
-[Return to Top](#top)
 
+[Table of Contents](#top)
 <a name="deployment"></a>
 
 ## **Deployment**
 The Barberette Shop website has been deployed to github pages and can be accessed [HERE](https://samlud1110.github.io/milestone_one/).
-[Return to Top](#top)
 
+[Table of Contents](#top)
 <a name="ux"></a>
 
 ## **UX**
+![Responsive Design](assets/images/responsive_devices.jpg)
 
 
+[Table of Contents](#top)
 <a name="stories"></a>
 
 ## **User Stories**
 
-
+[Table of Contents](#top)
 <a name="features"></a>
 
 ## **Features**
@@ -67,14 +69,15 @@ The Barberette Shop website has been deployed to github pages and can be accesse
   ### Removed Features
   ### Future Features/Scalability
 
+[Table of Contents](#top)
 <a name="testing"></a>
 
 ## **Testing**
 - HTML Validation: https://validator.w3.org/#validate_by_input 
 - CSS Validation: https://jigsaw.w3.org/css-validator/#validate_by_input 
 - Website speed testing: https://tools.pingdom.com/ 
-[Return to Top](#top)
 
+[Table of Contents](#top)
 <a name="tools"></a>
 
 ## **Technologies/Tools Used**
@@ -87,6 +90,7 @@ The Barberette Shop website has been deployed to github pages and can be accesse
   - Image editing: https://pinetools.com/c-images/
   - Favicon generator: https://favicon.io/favicon-converter/
 
+[Table of Contents](#top)
 <a name="credit"></a>
 
 ## **Credits**
@@ -107,7 +111,7 @@ The Barberette Shop website has been deployed to github pages and can be accesse
   - .hvr-grow-shadow code found at https://ianlunn.github.io/Hover/#effects
   - Footer - code from UCD-resume project used as a starting point for the footer.
 
-
+[Table of Contents](#top)
 
 Milestone Project #1
 The Barberette Shop Website
