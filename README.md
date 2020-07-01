@@ -27,7 +27,7 @@
 ## **Description**
 This is the static website for a real barbershop located in Elkhart, Indiana.
 
-The purpose of this website is to provide current and potential customers all the information about The Barberette Shop needed to book an appointment, such as services provided with images for examples, pricing, shop location, business hours, and buttons that allow customers the convenience of scheduling an appointment online.
+The purpose of this website is to provide current and potential customers all the information about The Barberette Shop needed to book an appointment, such as services provided with images for examples, pricing, shop location, business hours, and buttons that allow customers the convenience of easily scheduling an appointment online.
 
 The pages of this website are as follows:
 - [**Home:**](https://samlud1110.github.io/milestone_one/) A very inviting landing page where a call-to-action "Book Now" button is immediately available for reasons discussed in depth later. There is also a short introduction to The Barberette Shop and a map showing it's location.
@@ -49,11 +49,25 @@ Wireframes were created for mobile, tablet, and laptop sized screens. Links to e
 ## **Deployment**
 The Barberette Shop website has been deployed to github pages and can be accessed here: [The Barberette Shop](https://samlud1110.github.io/milestone_one/)
 
+Upon final approval from the business owner, this site will be deployed at TheBarberetteShop.com. 
+
 [*Table of Contents*](#top)
 <a name="ux"></a>
 
 ## **UX**
 ![Responsive Design](assets/images/responsive_devices.jpg)
+
+A review of the physical barbershop was the starting point when working on brand and visual identity for The Barberette Shop website. The physical location has a rugged, "old school" yet clean and simple look and feel. Matching that aesthetic was the goal for this website. In addition to simply matching the brand and visual identity of the physical location, the target audience was considered when deciding on the color scheme, fonts, etc.. In order to appeal to the target audience (men who work hard but care about how they look) while maintaining fidelity to The Barberette Shop brand the following choices were made.
+
+ - A color scheme consisting of blacks and greys appeals to the target audience while also providing the "old school" feel.
+ - White text contrasts nicely with the color scheme. 
+ - The "call to action" areas are red and draw the eyes immediately. 
+
+ The navbar and footer illustrate how these UI elements contribute nicely to the overall user experience.
+ 
+ ![Navbar](assets/images/assets.jpg)
+
+ ![Footer](assets/images/footer.jpg)
 
 
 [*Table of Contents*](#top)
