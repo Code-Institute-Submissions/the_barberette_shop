@@ -11,7 +11,6 @@
 5. [User Stories](#stories)
 6. [Features](#features)
    - [Existing Features](#existing)
-   - [Removed Features](#removed)
    - [Future Features/Scalability](#future)
 7. [Testing](#testing)
 8. [Technologies/Tools Used](#tech)
@@ -30,7 +29,7 @@ This is the static website for a real barbershop located in Elkhart, Indiana.
 The purpose of this website is to provide current and potential customers all the information about The Barberette Shop needed to book an appointment, such as services provided with images for examples, pricing, shop location, business hours, and buttons that allow customers the convenience of easily scheduling an appointment online.
 
 The pages of this website are as follows:
-- [**Home:**](https://samlud1110.github.io/milestone_one/) A very inviting landing page where a call-to-action "Book Now" button is immediately available for reasons discussed in depth later. There is also a short introduction to The Barberette Shop and a map showing it's location.
+- [**Home:**](https://samlud1110.github.io/milestone_one/) A very inviting landing page where a call-to-action "Book Now" button is immediately available. There is also a short introduction to The Barberette Shop and a map showing it's location.
 - [**Services:**](https://samlud1110.github.io/milestone_one/services.html) Provides information about the services offered, with prices and images included. 
 - [**Contact:**](https://samlud1110.github.io/milestone_one/contact.html) A page with a contact form for customers with any questions and another map showing the location.
 
@@ -77,7 +76,7 @@ Furthermore, all aspects of the website were made to be as simple as possible. T
 <a name="stories"></a>
 
 ## **User Stories**
-At this stage of development, two main groups of people have been identified as users of this website: Clients and the business owner. 
+At this stage of development, two main groups of people have been identified as users of this website: clients and the business owner. 
 
 Clients
 - As a client, I want a simple way to schedule appointments online.
@@ -104,16 +103,19 @@ Business Owner
 
   [*Table of Contents*](#top)
   ### Existing Features
-
-  <a name="removed"></a>
-
-  [*Table of Contents*](#top)
-  ### Removed Features
+  The various features on the site are:
+  - The navbar remains at the top of the window.
+  - All features are responsive utilizing Bootstrap.
+  - Bootstrap cards are used on the services page.
 
   <a name="future"></a>
 
   [*Table of Contents*](#top)
   ### Future Features/Scalability
+  Features to be added in the future:
+  - A seperate page devoted to images of happy clients.
+  - Building the backend elements necessary to schedule appointments online while on this site as opposed to sending clients to a third party service.
+  - Adding a page devoted to ecommerce so clients can purchase products online. 
 
 [*Table of Contents*](#top)
 <a name="testing"></a>
