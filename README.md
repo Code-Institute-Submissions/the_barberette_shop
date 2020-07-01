@@ -10,17 +10,17 @@
 4. [UX](#ux)
 5. [User Stories](#stories)
 6. [Features](#features)
-   - Existing Features
-   - Removed Features
-   - Future Features/Scalability
+   - [Existing Features](#existing)
+   - [Removed Features](#removed)
+   - [Future Features/Scalability](#future)
 7. [Testing](#testing)
-8. [Technologies/Tools Used](#tools)
-   - Languages and Frameworks
-   - Tools
+8. [Technologies/Tools Used](#tech)
+   - [Languages and Frameworks](#languages)
+   - [Tools](#tools)
 9. [Credit](#credit)
-   - Content
-   - Media
-   - Acknowledgements
+   - [Content](#content)
+   - [Media](#media)
+   - [Acknowledgements](#thanks)
 
 <a name="description"></a>
 
@@ -66,8 +66,20 @@ At this stage of development, three groups of people have been identified as use
 <a name="features"></a>
 
 ## **Features**
+
+  <a name="existing"></a>
+
+  [*Table of Contents*](#top)
   ### Existing Features
+
+  <a name="removed"></a>
+
+  [*Table of Contents*](#top)
   ### Removed Features
+
+  <a name="future"></a>
+
+  [*Table of Contents*](#top)
   ### Future Features/Scalability
 
 [*Table of Contents*](#top)
@@ -79,13 +91,19 @@ At this stage of development, three groups of people have been identified as use
 - Website speed testing: https://tools.pingdom.com/ 
 
 [*Table of Contents*](#top)
-<a name="tools"></a>
+<a name="tech"></a>
 
 ## **Technologies/Tools Used**
+  <a name="languages"></a>
+
   ### Languages and Frameworks
   - HTML
   - CSS
   - Bootstrap
+
+  [*Table of Contents*](#top)
+  <a name="tools"></a>
+
   ### Tools Used
   - Balsamiq: Used for large screen wireframe. 
   - Visual Studio Code: IDE
@@ -99,8 +117,14 @@ At this stage of development, three groups of people have been identified as use
 <a name="credit"></a>
 
 ## **Credits**
+  <a name="content"></a>
+
   ### Content
   The text used throughout the website was taken from The Barberette Shop's existing online sources including [Facebook](https://www.facebook.com/thebarberetteshop), [Vagaro](https://www.vagaro.com/thebarberetteshop), and [Yelp](https://www.yelp.com/biz/the-barberette-shop-elkhart) with some minor edits.
+
+  [*Table of Contents*](#top)
+  <a name="media"></a>
+
   ### Media
   Images used for this website were found at the following locations:
   - https://www.facebook.com/thebarberetteshop/photos/?ref=page_internal
@@ -110,6 +134,9 @@ At this stage of development, three groups of people have been identified as use
     - Brick background image on the landing page - https://www.pexels.com/photo/brick-brickwall-brickwork-cement-276514/ 
     - x
   - http://ami.responsivedesign.is/
+
+  [*Table of Contents*](#top)
+  <a name="thanks"></a>
 
   ### Acknowledgements
   - Navbar code modeled after the navbar found at https://blackrockdigital.github.io/startbootstrap-agency/
