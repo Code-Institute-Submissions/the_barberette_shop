@@ -77,7 +77,23 @@ Furthermore, all aspects of the website were made to be as simple as possible. T
 <a name="stories"></a>
 
 ## **User Stories**
-At this stage of development, three groups of people have been identified as users of this website: Current clients, prospective clients, and the business owner. 
+At this stage of development, two main groups of people have been identified as users of this website: Clients and the business owner. 
+
+Clients
+- As a client, I want a simple way to schedule appointments online.
+- As a client, I want to see the services available with example images.
+- As a client, I want to know the prices for the services offered.
+- As a client, I want to see the hours of operation.
+- As a client, I want to see the location of the barbershop on a map.
+- As a client, I want to send a message to the business owner easily.
+- As a client, I want to connect to this business on social media.
+
+Business Owner
+- As the business owner, I want to show clients the services I offer.
+- As the business owner, I want to show clients where my business is located.
+- As the business owner, I want to receive personal messages from my clients.
+- As the business owner, I want to tell people about my business.
+- As the business owner, I want to connect with people on social media.
 
 [*Table of Contents*](#top)
 <a name="features"></a>
