@@ -63,12 +63,15 @@ A review of the physical barbershop was the starting point when working on brand
  - White text contrasts nicely with the color scheme. 
  - The "call to action" areas are red and draw the eyes immediately. 
 
- The navbar and footer illustrate how these UI elements contribute nicely to the overall user experience.
+ The navbar and footer (shown below) illustrate how these UI elements contribute nicely to the overall user experience.
 
  ![Navbar](assets/images/navbar.jpg)
 
  ![Footer](assets/images/footer.jpg)
 
+Furthermore, all aspects of the website were made to be as simple as possible. Text was minimized and images were highlighted due to the very visual nature of hair and barber services. The services page in particular exemplifies this simplicity in a responsive manner. 
+
+[Services page on all devices](assets/images/services_devices.pdf)
 
 [*Table of Contents*](#top)
 <a name="stories"></a>
