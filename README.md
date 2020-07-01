@@ -125,6 +125,8 @@ The following resources were used to test this site:
 - [HTML Validation](https://validator.w3.org/#validate_by_input)
 - [CSS Validation](https://jigsaw.w3.org/css-validator/#validate_by_input)
 - Website speed testing using [Pingdom](https://tools.pingdom.com/)
+- [Color Contrast Accessibility Validator](https://color.a11y.com/Contrast/)
+- DevTools in Google Chrome.
 
 [*Table of Contents*](#top)
 <a name="tech"></a>
@@ -141,14 +143,16 @@ The following resources were used to test this site:
   <a name="tools"></a>
 
   ### Tools Used
-  - Balsamiq: Used for large screen wireframe. 
+  - Balsamiq: Used for large screen wireframe and the frames for the small and medium screens. 
   - Visual Studio Code: IDE
-  - Icons - https://fontawesome.com/?from=io
-  - Google Fonts - https://fonts.google.com/
-  - CSS autoprefixer: https://autoprefixer.github.io/
-  - Image editing: https://pinetools.com/c-images/
-  - Favicon generator: https://favicon.io/favicon-converter/
-  - Color Contrast Accessibility Validator: https://color.a11y.com/Contrast/
+  - [Bootstrap](https://getbootstrap.com/) framework
+  - [Font Awesome](https://fontawesome.com/?from=io) used for social media icons
+  - [Google Fonts](https://fonts.google.com/)
+  - [CSS autoprefixer](https://autoprefixer.github.io/) to help cross browser compatibility
+  - [Image editing](https://pinetools.com/c-images/)
+  - [Favicon generator](https://favicon.io/favicon-converter/)
+  - [Color Contrast Accessibility Validator](https://color.a11y.com/Contrast/)
+  - DevTools in Google Chrome
 
 [*Table of Contents*](#top)
 <a name="credit"></a>
@@ -164,26 +168,26 @@ The following resources were used to test this site:
 
   ### Media
   Images used for this website were found at the following locations:
-  - https://www.facebook.com/thebarberetteshop/photos/?ref=page_internal
-  - https://www.yelp.com/biz_photos/the-barberette-shop-elkhart 
-  - https://www.vagaro.com/thebarberetteshop 
-  - https://www.pexels.com/ 
-    - Brick background image on the landing page - https://www.pexels.com/photo/brick-brickwall-brickwork-cement-276514/ 
-    - x
-  - http://ami.responsivedesign.is/
+  - [The Barberette Shop Facebook](https://www.facebook.com/thebarberetteshop/photos/?ref=page_internal)
+  - [The Barberette Shop Yelp](https://www.yelp.com/biz_photos/the-barberette-shop-elkhart)
+  - [Vagaro](https://www.vagaro.com/thebarberetteshop)
+  - [Pexels.com](https://www.pexels.com/)
+  - [Am I Responsive](http://ami.responsivedesign.is/)
 
   [*Table of Contents*](#top)
   <a name="thanks"></a>
 
   ### Acknowledgements
-  - Navbar code modeled after the navbar found at https://blackrockdigital.github.io/startbootstrap-agency/
-  - .hvr-grow-shadow code found at https://ianlunn.github.io/Hover/#effects
-  - Footer - code from UCD-resume project used as a starting point for the footer.
+  - Navbar code modeled after the navbar found [HERE](https://blackrockdigital.github.io/startbootstrap-agency/)
+  - .hvr-grow-shadow code found [HERE](https://ianlunn.github.io/Hover/#effects)
+  - Footer code from UCD-resume project used as a starting point for the footer.
+  - A big thank you to the slack community and my mentor.
   
   Sources of inspiration.
-  - https://getbootstrap.com/ 
-  - http://chivalrygroomingparlour.com/
-  - https://startbootstrap.com/ 
-  - https://code-institute-solutions.github.io/StudentExampleProjectGradeFive/index.html 
+  - [Bootstrap](https://getbootstrap.com/)
+  - [Chivalry Grooming Parlour](http://chivalrygroomingparlour.com/)
+  - [StartBootstrap.com](https://startbootstrap.com/)
+  - [Code Institute Grade 5 Example Project](https://code-institute-solutions.github.io/StudentExampleProjectGradeFive/index.html)
+
 
 [*Table of Contents*](#top)
