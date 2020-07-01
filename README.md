@@ -64,8 +64,8 @@ A review of the physical barbershop was the starting point when working on brand
  - The "call to action" areas are red and draw the eyes immediately. 
 
  The navbar and footer illustrate how these UI elements contribute nicely to the overall user experience.
- 
- ![Navbar](assets/images/assets.jpg)
+
+ ![Navbar](assets/images/navbar.jpg)
 
  ![Footer](assets/images/footer.jpg)
 
