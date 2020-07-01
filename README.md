@@ -29,9 +29,9 @@ This is the static website for a real barbershop located in Elkhart, Indiana.
 The purpose of this website is to provide current and potential customers all the information about The Barberette Shop needed to book an appointment, such as services provided with images for examples, pricing, shop location, business hours, and buttons that allow customers the convenience of easily scheduling an appointment online.
 
 The pages of this website are as follows:
-- [**Home:**](https://samlud1110.github.io/milestone_one/) A very inviting landing page where a call-to-action "Book Now" button is immediately available. There is also a short introduction to The Barberette Shop and a map showing it's location.
-- [**Services:**](https://samlud1110.github.io/milestone_one/services.html) Provides information about the services offered, with prices and images included. 
-- [**Contact:**](https://samlud1110.github.io/milestone_one/contact.html) A page with a contact form for customers with any questions and another map showing the location.
+- [**Home:**](https://samlud1110.github.io/the_barberette_shop/) A very inviting landing page where a call-to-action "Book Now" button is immediately available. There is also a short introduction to The Barberette Shop and a map showing it's location.
+- [**Services:**](https://samlud1110.github.io/the_barberette_shop/services.html) Provides information about the services offered, with prices and images included. 
+- [**Contact:**](https://samlud1110.github.io/the_barberette_shop/contact.html) A page with a contact form for customers with any questions and another map showing the location.
 
 [*Table of Contents*](#top)
 <a name="wireframes"></a>
@@ -46,7 +46,7 @@ Wireframes were created for mobile, tablet, and laptop sized screens. Links to e
 <a name="deployment"></a>
 
 ## **Deployment**
-The Barberette Shop website has been deployed to github pages and can be accessed here: [The Barberette Shop](https://samlud1110.github.io/milestone_one/)
+The Barberette Shop website has been deployed to github pages and can be accessed here: [The Barberette Shop](https://samlud1110.github.io/the_barberette_shop/)
 
 Upon final approval from the business owner, this site will be deployed at TheBarberetteShop.com. 
 
