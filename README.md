@@ -121,9 +121,10 @@ Business Owner
 <a name="testing"></a>
 
 ## **Testing**
-- HTML Validation: https://validator.w3.org/#validate_by_input 
-- CSS Validation: https://jigsaw.w3.org/css-validator/#validate_by_input 
-- Website speed testing: https://tools.pingdom.com/ 
+The following resources were used to test this site:
+- [HTML Validation](https://validator.w3.org/#validate_by_input)
+- [CSS Validation](https://jigsaw.w3.org/css-validator/#validate_by_input)
+- Website speed testing using [Pingdom](https://tools.pingdom.com/)
 
 [*Table of Contents*](#top)
 <a name="tech"></a>
